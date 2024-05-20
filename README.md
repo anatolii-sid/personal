@@ -6,3 +6,5 @@ This project focused on implementing an end to end tool that could assist with r
 
 It works in four stages, first the URL is used to load the text from that website, using the Unstructured library. Then the data is split into chunks. This is done in order to minimize computational costs. These chunks are then turned into a vector database using OpenAI embeddings. The user can then create a query, which can be a question, a request for clarification or a summary, which will be also be converted to a vector format before being sent to the OpenAI API for an answer.
 
+## 2 - Trading bot using Neuro-evolution
+This was a test to see if NEAT (Neuro-Evolution Augmented Topology) could be utilized to create a bot that could successfuly live-trade and turn a profit. It utilizes agents controled by neural networks, that are tested on the last three days of BTC-USD prices. The best bots remain and are used to create a new population through crossover and mutation. After just a few runs some bots were able to provide a consistent 0.7% return.
