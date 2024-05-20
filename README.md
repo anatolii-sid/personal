@@ -1,5 +1,5 @@
 # Personal Repository
-A compilation of personal porjects
+This is a compilation of projects I have done in my own personal time.
 
 ## 1 - Research tool powered by OpenAI
 This project focused on implementing an end to end tool that could assist with research of online text resources. The goal was to be able to provide some websites and be able to ask questions about their content. This could be used to help with research in a plethora of scenarios. 
