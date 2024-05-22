@@ -17,3 +17,9 @@ This was a test to see if NEAT (Neuro-Evolution Augmented Topology) could be uti
 This was a test of the OpenGL library for python. I wanted to see how I could take a 3D .obj file and show it using Python.
 
 ![Screenshot 2024-05-20 at 4 14 24 PM](https://github.com/anatolii-sid/personal/assets/146433876/aeb92e1c-82e4-4dce-8f20-52f66fd99678)
+
+## This Anatolii Does Not Exist
+
+This project was inspired by the thispersondoesnotexist.com webiste. Through the use Generative Adveserial Networks I was able to train a model to generate images of my face. Although not perfect they are impressive when considering that the data set only had 306 samples.
+
+![output](https://github.com/anatolii-sid/personal/assets/146433876/bfca2091-a9de-4d40-b33a-fcfed2987b9a)
