@@ -18,8 +18,8 @@ This was a test of the OpenGL library for python. I wanted to see how I could ta
 
 ![Screenshot 2024-05-20 at 4 14 24 PM](https://github.com/anatolii-sid/personal/assets/146433876/aeb92e1c-82e4-4dce-8f20-52f66fd99678)
 
-## This Anatolii Does Not Exist
+## 4 - This Anatolii Does Not Exist using PyTorch
 
-This project was inspired by the thispersondoesnotexist.com webiste. Through the use Generative Adveserial Networks I was able to train a model to generate images of my face. Although not perfect they are impressive when considering that the data set only had 306 samples.
+This project was inspired by the thispersondoesnotexist.com webiste. Through the use Generative Adveserial Networks I was able to train a model to generate images of my face. Although not perfect they are impressive when considering that the data set only had 306 samples. 
 
 ![output](https://github.com/anatolii-sid/personal/assets/146433876/bfca2091-a9de-4d40-b33a-fcfed2987b9a)
