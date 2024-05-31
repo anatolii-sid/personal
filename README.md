@@ -9,7 +9,7 @@ It works in four stages, first the URL is used to load the text from that websit
 ![Screenshot 2024-05-20 at 5 11 23 PM](https://github.com/anatolii-sid/personal/assets/146433876/738a1f3a-0392-4157-b129-0dde2fbf744f)
 
 ## 2 - Trading bot using Neuro-evolution
-This was a test to see if NEAT (Neuro-Evolution Augmented Topology) could be utilized to create a bot that could successfuly live-trade and turn a profit. It utilizes agents controled by neural networks, that are tested on the last three days of BTC-USD prices. The best bots remain and are used to create a new population through crossover and mutation. After just a few runs some bots were able to provide a 5.3% return.
+This was a test to see if NEAT (Neuro-Evolution Augmented Topology) could be utilized to create a bot that could successfuly live-trade and turn a profit. It utilizes agents controled by neural networks, that are tested on the last three days of BTC-USD prices. The best bots remain and are used to create a new population through crossover and mutation. After a few runs some bots were able to provide a 0.53% return.
 
 ![Screenshot 2024-05-20 at 5 09 10 PM](https://github.com/anatolii-sid/personal/assets/146433876/8330279c-7351-430a-a4ce-3eab84960816)
 
